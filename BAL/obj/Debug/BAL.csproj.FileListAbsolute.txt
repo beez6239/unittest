@@ -1,0 +1,9 @@
+C:\Users\OSAS\Desktop\UnitTest\BAL\bin\Debug\BAL.exe.config
+C:\Users\OSAS\Desktop\UnitTest\BAL\bin\Debug\BAL.exe
+C:\Users\OSAS\Desktop\UnitTest\BAL\bin\Debug\BAL.pdb
+C:\Users\OSAS\Desktop\UnitTest\BAL\bin\Debug\DAL.dll
+C:\Users\OSAS\Desktop\UnitTest\BAL\bin\Debug\DAL.pdb
+C:\Users\OSAS\Desktop\UnitTest\BAL\obj\Debug\BAL.csproj.AssemblyReference.cache
+C:\Users\OSAS\Desktop\UnitTest\BAL\obj\Debug\BAL.csproj.CoreCompileInputs.cache
+C:\Users\OSAS\Desktop\UnitTest\BAL\obj\Debug\BAL.exe
+C:\Users\OSAS\Desktop\UnitTest\BAL\obj\Debug\BAL.pdb
