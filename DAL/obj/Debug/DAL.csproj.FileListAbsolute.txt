@@ -1,0 +1,5 @@
+C:\Users\OSAS\Desktop\UnitTest\DAL\bin\Debug\DAL.dll
+C:\Users\OSAS\Desktop\UnitTest\DAL\bin\Debug\DAL.pdb
+C:\Users\OSAS\Desktop\UnitTest\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\OSAS\Desktop\UnitTest\DAL\obj\Debug\DAL.dll
+C:\Users\OSAS\Desktop\UnitTest\DAL\obj\Debug\DAL.pdb
